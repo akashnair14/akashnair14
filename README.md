@@ -186,7 +186,7 @@ Excel, PDF, CSV
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akashnair14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=FFFFFF&count_private=true" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=akashnair14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=FFFFFF&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashnair14&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8" />
 
 <br><br>
