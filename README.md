@@ -26,7 +26,6 @@ I focus on performance, clean backend logic and real world usability rather than
 </p>
 
 ---
----
 
 # 🚀 Tools Used
 
