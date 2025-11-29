@@ -11,40 +11,24 @@
 
 <br><br>
 
-<!-- About Section with Glass Effect -->
+<!-- About Section -->
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img width="90%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-### Ship Fast • Improve Constantly
+### 🚀 Ship Fast • Improve Constantly
 
 I focus on building tools that solve real problems. No fancy tricks, just clean code that works and scales.
 
-**Performance over perfection**  
-**Action over analysis**  
-**Users over algorithms**
+**Performance over perfection** • **Action over analysis** • **Users over algorithms**
 
-</td>
+<br>
 
-<td width="50%" align="center">
-
-<img width="90%" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
-
-### What I'm Building
+### 💼 What I'm Building
 
 Currently working on a **Client Management System** — a full-stack invoicing platform with GST compliance, real-time analytics, and WhatsApp sharing.
 
 Built with React, TypeScript, and Supabase.
 
 **[🌐 View Live Demo →](https://clientmanagementsystem-alpha.vercel.app)**
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -53,7 +37,7 @@ Built with React, TypeScript, and Supabase.
 <!-- Tech Stack Section -->
 <div align="center">
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <br>
 
@@ -119,7 +103,7 @@ Built with React, TypeScript, and Supabase.
 <!-- Project Highlights -->
 <div align="center">
 
-## Featured Work
+## 🎯 Featured Work
 
 <br>
 
@@ -133,38 +117,9 @@ Built with React, TypeScript, and Supabase.
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-📊  
-**Analytics**  
-Real-time dashboards
-
-</td>
-<td align="center" width="25%">
-
-🧾  
-**GST Invoices**  
-CGST & SGST ready
-
-</td>
-<td align="center" width="25%">
-
-💬  
-**WhatsApp**  
-Direct invoice sharing
-
-</td>
-<td align="center" width="25%">
-
-📑  
-**Exports**  
-Excel, PDF, CSV
-
-</td>
-</tr>
-</table>
+| 📊 Analytics | 🧾 GST Invoices | 💬 WhatsApp | 📑 Exports |
+|:---:|:---:|:---:|:---:|
+| Real-time dashboards | CGST & SGST ready | Direct invoice sharing | Excel, PDF, CSV |
 
 <br>
 
@@ -180,29 +135,20 @@ Excel, PDF, CSV
 <!-- GitHub Stats -->
 <div align="center">
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akashnair14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=FFFFFF&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashnair14&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akashnair14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashnair14&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8" alt="GitHub Streak" />
+</p>
 
-<br><br>
+<br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashnair14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=FFFFFF&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=akashnair14&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=818CF8&line=818CF8&point=FFFFFF" />
-
-</div>
-
-<br><br>
-
-<!-- Contribution Snake -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashnair14/akashnair14/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akashnair14/akashnair14/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashnair14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+</p>
 
 </div>
 
@@ -211,7 +157,7 @@ Excel, PDF, CSV
 <!-- Connect Section -->
 <div align="center">
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <br>
 
@@ -231,7 +177,7 @@ Excel, PDF, CSV
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=akashnair14&color=818CF8&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=akashnair14&color=818CF8&style=for-the-badge)
 
 </div>
 
