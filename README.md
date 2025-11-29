@@ -1,117 +1,163 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Akash+Nair;Backend+%2B+Frontend+Engineer;Building+Clean+APIs+and+Real+Products;React+%7C+DotNet+%7C+SQL+%7C+Supabase" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<!-- Social badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/akashnair14"><img src="https://img.shields.io/badge/LinkedIn-Akash%20Nair-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:nairakash128@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-critical?style=for-the-badge&logo=gmail" /></a>
-</p>
+# 👋 `console.log("Hello, World!")`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Akash+Nair;Building+Real+Solutions+%7C+Not+Just+Code" alt="Typing SVG" />
+
+</div>
 
 ---
 
-# 👋 About Me  
+```javascript
+const akash = {
+    pronouns: "he/him",
+    location: "India 🇮🇳",
+    currentFocus: ["Practical Solutions", "Clean Architecture", "Shipping Fast"],
+    philosophy: "Build for users, not for GitHub stars ⭐",
+    motto: "Ship fast. Improve constantly. 🚀"
+};
 
-I build practical tools, ship efficiently, and keep things simple.  
-I focus on performance, clean backend logic and real world usability rather than flashy code tricks.
-
-
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,cs,dotnet,react,js,tailwind,vite" />
-</p>
-
----
-
-# 🚀 Tools Used
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode" />
-</p>
+// Function to solve real problems
+const buildSolution = (problem) => {
+    return problem
+        .analyze()
+        .design({ simplicity: true, performance: true })
+        .implement({ clean: true, maintainable: true })
+        .ship({ fast: true, iterative: true });
+};
+```
 
 ---
 
-# 🔥 Highlight Projects Wall
+<div align="center">
 
-<!-- Project 1 -->
-## ⚡ SparkInvoice – Full GST Invoice System  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashnair14&repo=client-spark-invoice&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
+## 🛠️ Tech Arsenal
 
-**Features**
-- React and TypeScript frontend  
-- Supabase backend with auth and RLS  
-- GST invoices with CGST and SGST  
-- Excel PDF CSV export  
-- Analytics and dashboards  
-- WhatsApp invoice share  
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css&theme=dark" alt="Tech Stack" />
 
-👉 Live: https://clientmanagementsystem-alpha.vercel.app
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=supabase,firebase,git,github,vscode,postman,figma&theme=dark" alt="Tools" />
+
+</div>
 
 ---
 
-<!-- Project 2 -->
-## 🏭 Micromoulds and Tools Website  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashnair14&repo=micromouldsandtools&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
+<div align="center">
+
+## 🎯 What I'm Building
+
+</div>
+
+```typescript
+interface CurrentProject {
+    name: string;
+    description: string;
+    tech: string[];
+    status: "🚧 Building" | "✅ Live" | "🔄 Improving";
+}
+
+const featured: CurrentProject = {
+    name: "Client Management System",
+    description: "Full-stack invoicing platform with GST compliance",
+    tech: ["React", "TypeScript", "Supabase", "RLS"],
+    status: "✅ Live"
+};
+
+// Features that matter
+const features = [
+    "📱 WhatsApp invoice sharing",
+    "📊 Real-time analytics dashboard", 
+    "📑 Multi-format exports (Excel/PDF/CSV)",
+    "🔐 Row-level security with Supabase"
+];
+```
+
+<div align="center">
+
+**[🚀 Check it Live](https://clientmanagementsystem-alpha.vercel.app)**
+
+</div>
 
 ---
 
-<!-- Project 3 -->
-## 💼 Portfolio Website  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashnair14&repo=akashnairportfolio&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
+<div align="center">
+
+## 💭 My Coding Philosophy
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+```python
+# What I believe in
+principles = {
+    "clean_code": True,
+    "over_engineering": False,
+    "user_first": True,
+    "premature_optimization": False,
+    "documentation": True,
+    "ego_driven_tech": False
+}
+
+def should_i_build_it(idea):
+    return idea.solves_real_problem() and \
+           idea.is_maintainable() and \
+           idea.adds_value()
+```
+
+</td>
+<td width="50%">
+
+### ⚡ Quick Wins
+- 🎯 Focus on root causes
+- 🧹 Keep APIs clean
+- 📐 Maintain clarity
+- 🚢 Ship early, iterate
+- 💪 Performance over perfection
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🔧 GitHub Stats and Analytics
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashnair14&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashnair14&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
-</p>
+## 📊 GitHub Stats
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashnair14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashnair14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-# 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashnair14&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akashnair14&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
+</div>
 
 ---
 
-# 🧩 Activity Graph  
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashnair14&theme=react-dark&hide_border=true&area=true" />
-</p>
+## 🤝 Let's Connect
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashnair14)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nairakash128@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashnair14)
 
-# 🎯 Philosophy
-
-- Ship fast. Improve constantly  
-- Keep APIs clean  
-- Build for real users, not for fancy code  
-- Solve root causes  
-- Maintain clarity in frontend and backend
+</div>
 
 ---
 
-# 📫 Contact  
+<div align="center">
 
-- LinkedIn: https://www.linkedin.com/in/akashnair14  
-- Email: nairakash128@gmail.com  
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║  "Code is like humor. When you have to explain it,       ║
+║   it's bad." - Cory House                                 ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashnair14&color=blue&style=flat-square" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
 
+</div>
