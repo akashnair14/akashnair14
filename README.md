@@ -22,7 +22,16 @@ I focus on performance, clean backend logic and real world usability rather than
 # 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,react,ts,js,html,css,tailwind,git,github,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,cs,dotnet,react,js,tailwind,vite" />
+</p>
+
+---
+---
+
+# 🚀 Tools Used
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode" />
 </p>
 
 ---
