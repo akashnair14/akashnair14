@@ -1,99 +1,109 @@
-# Hi, I'm Akash 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Akash+Nair;Backend+%2B+Frontend+Engineer;Building+Clean+APIs+and+Real+Products;React+%7C+DotNet+%7C+SQL+%7C+Supabase" alt="Typing SVG" />
+</p>
 
-Backend focused Software Engineer from Gujarat, India, building e-Governance systems and modern invoice tools.
-
----
-
-## 👨‍💻 Current role
-
-- Software Engineer at **NIC Gandhinagar**, contributing to state-level e-Governance systems in Gujarat  
-- Previously **2+ years** as a .NET developer intern at **Sapphire Software Solutions**, working on the **Vidyalya** school management product  
-- Building **SparkInvoice**, a full stack GST invoice management app for Indian businesses
-
----
-
-## 🛠 Tech stack
-
-**Backend**
-
-- C#, **ASP.NET Core**, REST APIs  
-- Entity Framework, **SQL Server**, PostgreSQL  
-
-**Frontend**
-
-- **React**, TypeScript, Vite  
-- Tailwind CSS, shadcn/ui, basic Angular
-
-**Other**
-
-- Supabase (auth, RLS, real-time)  
-- Git, GitHub, Azure basics, GitHub Actions
+<!-- Social badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/akashnair14"><img src="https://img.shields.io/badge/LinkedIn-Akash%20Nair-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:your-email-here@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-critical?style=for-the-badge&logo=gmail" /></a>
+</p>
 
 ---
 
-## 🚀 Featured projects
+# 👋 About Me  
 
-### 1. SparkInvoice
+I build practical tools, ship efficiently, and keep things simple.  
+I focus on performance, clean backend logic and real world usability rather than flashy code tricks.
 
-Modern invoice management app with full GST support and rich client management.
-
-- React + TypeScript + Vite frontend  
-- Supabase backend with auth, RLS and real-time updates  
-- GST aware invoices with CGST/SGST, HSN codes and status workflow  
-- PDF export, CSV/XLSX export, dashboard with charts, WhatsApp invoice sharing  
-
-🔗 **Repo:** [client-spark-invoice](https://github.com/akashnair14/client-spark-invoice)  
-🔗 **Live:** https://clientmanagementsystem-alpha.vercel.app
 
 ---
 
-### 2. Developer Portfolio
+# 🚀 Tech Stack
 
-Single page portfolio site highlighting my experience as a .NET and React developer.
-
-- Clean, responsive layout  
-- Sections for experience, projects and contact  
-- Designed to be used as my primary public portfolio
-
-🔗 **Repo:** [akashnairportfolio](https://github.com/akashnair14/akashnairportfolio)  
-🔗 **Live:** *(update this after deployment, for example)* `https://akashnairportfolio.vercel.app`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,react,ts,js,html,css,tailwind,git,github,postgres,mysql" />
+</p>
 
 ---
 
-### 3. Micromoulds & Tools Website
+# 🔥 Highlight Projects Wall
 
-Marketing site for a manufacturing business built with React and Vite. :contentReference[oaicite:2]{index=2}  
+<!-- Project 1 -->
+## ⚡ SparkInvoice – Full GST Invoice System  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashnair14&repo=client-spark-invoice&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
 
-- Production ready landing site  
-- Deployed on Vercel  
+**Features**
+- React and TypeScript frontend  
+- Supabase backend with auth and RLS  
+- GST invoices with CGST and SGST  
+- Excel PDF CSV export  
+- Analytics and dashboards  
+- WhatsApp invoice share  
 
-🔗 **Repo:** [micromouldsandtools](https://github.com/akashnair14/micromouldsandtools)  
-🔗 **Live:** https://micromouldsandtools.vercel.app
-
----
-
-### 4. Angular Todo List
-
-Simple Todo app built with Angular 17.  :contentReference[oaicite:3]{index=3}  
-
-- Uses Angular CLI project structure  
-- Good example of my Angular basics
-
-🔗 **Repo:** [Angular_todo_list](https://github.com/akashnair14/Angular_todo_list)
+👉 Live: https://clientmanagementsystem-alpha.vercel.app
 
 ---
 
-## 💼 What I’m good at
-
-- Designing clean **REST APIs** in ASP.NET Core  
-- SQL data modeling and writing efficient queries in **SQL Server**  
-- Building production ready frontends in **React + TypeScript**  
-- Taking an idea from Figma level UI to fully working app with auth, DB and deployment
+<!-- Project 2 -->
+## 🏭 Micromoulds and Tools Website  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashnair14&repo=micromouldsandtools&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
 
 ---
 
-## 📫 Contact
+<!-- Project 3 -->
+## 💼 Portfolio Website  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashnair14&repo=akashnairportfolio&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
 
-- LinkedIn: [linkedin.com/in/akashnair14](https://www.linkedin.com/in/akashnair14)  
-- Email: `your-email-here@example.com`
+---
+
+# 🔧 GitHub Stats and Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashnair14&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashnair14&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akashnair14&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+---
+
+# 🧩 Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashnair14&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🎯 Philosophy
+
+- Ship fast. Improve constantly  
+- Keep APIs clean  
+- Build for real users, not for fancy code  
+- Solve root causes  
+- Maintain clarity in frontend and backend
+
+---
+
+# 📫 Contact  
+
+- LinkedIn: https://www.linkedin.com/in/akashnair14  
+- Email: your-email-here@example.com  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akashnair14&color=blue&style=flat-square" />
+</p>
 
