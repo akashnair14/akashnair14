@@ -1,102 +1,245 @@
-<!-- Header with Typing Effect -->
-
 <div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DOutfit%26weight%3D600%26size%3D30%26duration%3D3000%26pause%3D1000%26color%3D2196F3%26background%3D00000000%26vCenter%3Dtrue%26multiline%3Dfalse%26width%3D500%26height%3D60%26lines%3DHi%2Bthere!%2B%25F0%259F%2591%258B%2BI%27m%2BAkash%2BNair%3BWeb%2BDeveloper%2B%25F0%259F%2592%25BB%3BTech%2BEnthusiast%2B%25F0%259F%259A%2580%3BCreating%2BCool%2BStuff%2B%25E2%259C%25A8" alt="Typing SVG" />
+
+<!-- Animated Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,8,12,14,17,20,24&height=200&section=header&text=Akash%20Nair&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+
 </div>
 
-<!-- Intro Section with Glassy Look -->
-
 <div align="center">
-<h3>🚀 About Me</h3>
+  
+### `< Building Digital Experiences />`
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Clean+Code+%7C+Fast+Shipping+%7C+Real+Solutions;React+%E2%9C%95+TypeScript+%E2%9C%95+Supabase" alt="Typing SVG" /></a>
 
+</div>
 
+<br>
 
+<!-- Glass Card Effect with Gradient Border -->
+<div align="center">
+<table>
+<tr>
+<td>
 
-I'm a passionate developer focused on building beautiful interfaces and robust applications. 
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
+### 🎯 **Philosophy**
 
+```yaml
+approach:
+  ship_fast: true
+  iterate_constantly: true
+  user_first: always
+  
+values:
+  - "Performance > Perfection"
+  - "Clarity > Complexity"
+  - "Action > Analysis Paralysis"
+  
+focus:
+  - Real-world usability
+  - Clean architecture
+  - Practical solutions
+```
 
+</td>
+<td>
 
-My goal is to create modern web experiences that look great and work smoothly.
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
+### ⚡ **Currently**
 
+```typescript
+interface Status {
+  building: string;
+  learning: string[];
+  exploring: string;
+}
 
+const current: Status = {
+  building: "Client Management System",
+  learning: ["System Design", "Scalability"],
+  exploring: "Serverless Architecture"
+};
+```
 
+</td>
+</tr>
+</table>
+</div>
 
+<br>
 
+<!-- Tech Stack Section with Icons -->
+<div align="center">
 
-<a href="https://www.google.com/search?q=https://technodaily2021.blogspot.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Read_My_Blog-000000%3Fstyle%3Dfor-the-badge%26logo%3Dblogger%26logoColor%3Dorange%26color%3D111111" alt="Blog" />
+## 🛠️ **Tech Stack**
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+<br>REST API
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+<br>Supabase
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br>Firebase
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br>Figma
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- Featured Project Section -->
+<div align="center">
+
+## 🚀 **Featured Project**
+
+<a href="https://clientmanagementsystem-alpha.vercel.app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashnair14&repo=ClientManagementSystem&theme=react&bg_color=1F222E&title_color=6366F1&icon_color=6366F1&hide_border=true&show_icons=true" width="49%" alt="Client Management System" />
 </a>
-<a href="https://www.google.com/search?q=https://twitter.com/akashnair_14">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Follow_on_Twitter-000000%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3D1DA1F2%26color%3D111111" alt="Twitter" />
-</a>
+
+### **Client Management System**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+```javascript
+const features = [
+  "📊 Real-time Analytics Dashboard",
+  "🧾 GST-Compliant Invoicing (CGST/SGST)",
+  "💬 WhatsApp Invoice Sharing",
+  "📑 Export to Excel, PDF & CSV",
+  "🔒 Row-Level Security with Supabase"
+];
+
+// Built for real businesses, not just portfolios
+```
+
+**[🌐 Live Demo](https://clientmanagementsystem-alpha.vercel.app)** • **[📚 View Code](#)**
+
 </div>
 
+<br>
 
-
-
-
-<!-- Tech Stack - Using SkillIcons for a clean, app-like feel -->
-
+<!-- GitHub Stats with Glass Effect -->
 <div align="center">
-<h3>🛠️ My Tech Stack</h3>
 
+## 📊 **GitHub Analytics**
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akashnair14&show_icons=true&theme=react&bg_color=1F222E&title_color=6366F1&icon_color=F8D866&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashnair14&theme=react&bg_color=1F222E&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&hide_border=true" />
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashnair14&layout=compact&theme=react&bg_color=1F222E&title_color=6366F1&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=akashnair14&theme=react-dark&bg_color=1F222E&color=6366F1&line=6366F1&point=FFFFFF&hide_border=true" />
 
-
-<p>
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,react,nodejs,git,github,vscode,figma,bootstrap,tailwind%26perline%3D6" alt="My Skills" />
-</a>
-</p>
 </div>
 
+<br>
 
-
-
-
-<!-- Stats Section with Transparent/Glass Effect -->
-
-<!-- Note: These use the 'transparent' theme which blends with your background, simulating glass. -->
-
+<!-- Trophy Section -->
 <div align="center">
-<h3>📊 GitHub Stats</h3>
 
+## 🏆 **GitHub Trophies**
 
+<img src="https://github-profile-trophy.vercel.app/?username=akashnair14&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" />
 
-
-
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dakashnair14%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D2196F3%26text_color%3D9f9f9f%26icon_color%3D2196F3%26bg_color%3D00000000" height="150" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dakashnair14%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D2196F3%26text_color%3D9f9f9f%26icon_color%3D2196F3%26bg_color%3D00000000" height="150" alt="languages graph" />
-</div>
 </div>
 
-<!-- Streak Stats -->
+<br>
 
+<!-- Snake Animation -->
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dakashnair14%26theme%3Ddark%26background%3D00000000%26hide_border%3Dtrue%26fire%3DEB4C42%26ring%3D2196F3%26currStreakLabel%3D2196F3" alt="streak stats" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashnair14/akashnair14/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashnair14/akashnair14/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akashnair14/akashnair14/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
-
-
-
-
-<!-- Footer with Snake Animation -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github.com/akashnair14/akashnair14/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<br>
 
 <!-- Connect Section -->
-
 <div align="center">
-<h3>📫 Connect with me</h3>
-<p>
-<a href="https://www.google.com/search?q=https://twitter.com/akashnair_14" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashnair_14" height="30" width="40" /></a>
-<a href="https://github.com/akashnair14" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="akashnair14" height="30" width="40" /></a>
-</p>
+
+## 🤝 **Let's Connect**
+
+<a href="https://www.linkedin.com/in/akashnair14">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nairakash128@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/akashnair14">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+### 💭 **Motto**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%9A%80+Ship+Fast.+Improve+Constantly.;%F0%9F%8E%AF+Build+for+Users%2C+Not+for+Stars.;%E2%9A%A1+Performance+Over+Perfection." alt="Typing SVG" />
+
+</div>
+
+<br>
+
+<!-- Footer Wave -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,8,12,14,17,20,24&height=120&section=footer" />
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=akashnair14&color=6366F1&style=for-the-badge)
+
 </div>
