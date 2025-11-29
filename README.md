@@ -6,7 +6,7 @@
 <!-- Social badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/akashnair14"><img src="https://img.shields.io/badge/LinkedIn-Akash%20Nair-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your-email-here@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-critical?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:nairakash128@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-critical?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
@@ -101,7 +101,7 @@ I focus on performance, clean backend logic and real world usability rather than
 # 📫 Contact  
 
 - LinkedIn: https://www.linkedin.com/in/akashnair14  
-- Email: your-email-here@example.com  
+- Email: nairakash128@gmail.com  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akashnair14&color=blue&style=flat-square" />
