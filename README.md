@@ -1,119 +1,95 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akash%20Nair&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+# Akash Nair
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Practical+Web+Apps;React+%E2%80%A2+TypeScript+%E2%80%A2+Supabase" />
+**Full Stack Developer** • Building practical web applications for real businesses
+
+[![LinkedIn](https://img.shields.io/badge/-akashnair14-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashnair14)
+[![Email](https://img.shields.io/badge/-nairakash128@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nairakash128@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Live_Project-818CF8?style=flat&logo=vercel&logoColor=white)](https://clientmanagementsystem-alpha.vercel.app)
 
 </div>
 
 ---
 
-## 👋 About Me
+### 👨‍💻 About
 
-I am a **Full Stack Developer** focused on building practical, usable software for real businesses.  
-I enjoy turning messy business problems into clean web applications.
+I build functional web applications that solve real business problems. My focus is on clean code, fast delivery, and continuous improvement. I prefer working software over theoretical complexity.
 
-My core approach:
-- Write readable code  
-- Ship fast  
-- Improve continuously  
-- Build features users actually need  
-
-I prefer **working products over fancy theory**.
+**Core principles:**
+- Write maintainable, readable code
+- Ship working features quickly
+- Iterate based on real feedback
+- Build what users actually need
 
 ---
 
-## 🚀 Current Project
+### 🚀 Featured Project
 
-### Client Management System  
-A full-stack invoicing and business management platform for small businesses.
+**[Client Management System](https://clientmanagementsystem-alpha.vercel.app)**  
+A full-stack invoicing and business management platform designed for small businesses.
 
-🔹 Features:
-- Customer and supplier management  
-- GST compliant invoices (CGST & SGST)  
-- Real-time business analytics  
-- WhatsApp invoice sharing  
-- Export to Excel, PDF, CSV  
+**Key features:**
+- Customer & supplier management
+- GST-compliant invoicing (CGST/SGST)
+- Real-time business analytics
+- WhatsApp invoice sharing
+- Export to Excel, PDF, CSV
 
-🔹 Tech stack:
-- Frontend: React + TypeScript  
-- Backend: Supabase  
-- Hosting: Vercel  
-
-🌐 Live Demo  
-https://clientmanagementsystem-alpha.vercel.app  
-
-This project is focused on:
-- Simplicity  
-- Performance  
-- Real business use  
+**Stack:** React • TypeScript • Supabase • Vercel
 
 ---
 
-## 🛠 Tech Stack
+### 🛠️ Technologies
 
-<table>
-<tr>
-<td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/><br>React</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"/><br>TypeScript</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br>JavaScript</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="50"/><br>Supabase</td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>Firebase</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50"/><br>Figma</td>
-</tr>
-</table>
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
----
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-## 📌 What I Focus On
-
-- Business web apps  
-- Dashboards and management systems  
-- Clean UI with strong logic  
-- Performance and scalability  
-- Automation over manual work  
-
-I am not interested in toy projects.  
-I build tools that businesses can actually use.
+**Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 📌 What I Build
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=akashnair14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=FFFFFF&count_private=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashnair14&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashnair14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=FFFFFF&langs_count=8" />
-
----
-
-## 🔗 Connect With Me
-
-<a href="https://www.linkedin.com/in/akashnair14">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:nairakash128@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/akashnair14">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+- Business management applications
+- Dashboards and analytics systems
+- Clean interfaces with robust backend logic
+- Scalable, performant web apps
+- Automation tools for real-world workflows
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=500&lines=Build+useful+software;Ship+fast;Learn+every+day" />
+### 📊 GitHub Activity
 
-![](https://komarev.com/ghpvc/?username=akashnair14&color=818CF8&style=for-the-badge)
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+![Stats](https://github-readme-stats.vercel.app/api?username=akashnair14&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&count_private=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashnair14&theme=react&hide_border=true&background=0d1117&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&stroke=30363d)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashnair14&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=6)
+
+</div>
+
+---
+
+<div align="center">
+
+**Build useful software • Ship fast • Learn continuously**
+
+![Profile Views](https://komarev.com/ghpvc/?username=akashnair14&color=818cf8&style=flat)
+
+</div>
